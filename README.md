@@ -19,7 +19,7 @@ EG–CO₂ pulping has emerged as a promising high‑yield alternative to kraft 
 
 - `scripts_egco2/` — Process models, LCI construction, and analysis code
   - `EG_CO2_model.py` — M&E balance LCA, OVAT, and Monte Carlo.
-  - 'Ponomarev_EGCO2_script_description_2026.pdf' - conceptual diagram for the description of the script.
+  - `Ponomarev_EGCO2_script_description_2026.pdf` - conceptual diagram for the description of the script.
 - `CITATION.cff` — How to cite this work
 - `LICENSE` — License (Unlicense by default; change if needed)
 
