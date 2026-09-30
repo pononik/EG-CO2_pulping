@@ -1,0 +1,17 @@
+```yaml
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: EG–CO₂ pulping: process model, LCI, and LCA (EF v3.1) with OVAT and Monte Carlo
+license: GNU v3.0
+repository-code: https://github.com/pononik/EG-CO2_pulping
+author:
+  - family-names: Ponomarev
+    given-names: Nikolai P.
+preferred-citation:
+  type: software
+  title: EG–CO₂ pulping: process model and life cycle assessment
+  authors:
+    - family-names: Ponomarev
+      given-names: Nikolai P.
+  # doi: 10.xxxx/zenodo.xxxxxxx
+  # url: https://doi.org/10.xxxx/zenodo.xxxxxxx
