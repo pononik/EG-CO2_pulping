@@ -28,4 +28,4 @@ EG–CO₂ pulping has emerged as a promising high‑yield alternative to kraft 
 ### Requirements
 - Python >= 3.10
 - Common packages: numpy, pandas, scipy, matplotlib, olca-ipc
-- LCA tooling (choose what you use): OpenLCA with ecoinventV10, olca-ipc
+- LCA tools: OpenLCA with ecoinventV10, olca-ipc
